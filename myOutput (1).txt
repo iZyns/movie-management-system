@@ -1,0 +1,140 @@
+Comedy:
+ Year: #: Title:      Director:
+1977 10 Annie Hall, Woody Allen
+ 1978 10 National Lampoon's Animal House, John Landis
+ 1989 10 When Harry Met Sally, Rob Reiner
+ 1993 10 Sleepless in Seattle, Nora Ephron
+ 1996 10 Fargo, Joel Coen
+ 1998 10 You've Got Mail, Nora Ephron
+ 2003 10 Pirates of the Caribbean, Gore Verbinski
+ 
+
+Drama:
+ Year: #: Title:      Director:
+1991 10 Dogfight, Nancy Savoca
+ 1988 10 Good Morning Vietnam, Barry Levinson
+ 2000 10 Good Will Hunting, Gus Van Sant
+ 1967 10 King of Hearts, Phillippe De Broca
+ 1993 10 Schindler's List, Steven Spielberg
+ 1991 10 Silence of the Lambs, Jonathan Demme
+ 1992 10 Unforgiven, Clint Eastwood
+ 
+
+Classic:
+ Date: #: Title:      Director:      Major Actor: 
+9 1938 10 Holiday, George Cukor, Cary Grant
+ 9 1938 10 Holiday, George Cukor, Katherine Hepburn
+ 2 1939 10 Gone With the Wind, Victor Fleming, Clark Gable
+ 2 1939 10 Gone With the Wind, Victor Fleming, Vivien Leigh
+ 7 1939 10 The Wizard of Oz, Victor Fleming, Judy Garland
+ 5 1940 10 The Philadelphia Story, George Cukor, Cary Grant
+ 5 1940 10 The Philadelphia Story, George Cukor, Katherine Hepburn
+ 10 1941 10 The Maltese Falcon, John Huston, Humphrey Bogart
+ 8 1942 10 Casablanca, Michael Curtiz, Humphrey Bogart
+ 8 1942 10 Casablanca, Michael Curtiz, Ingrid Bergman
+ 11 1946 10 It's a Wonderful Life, Frank Capra, Donna Reed
+ 11 1946 10 It's a Wonderful Life, Frank Capra, James Steward
+ 2 1971 10 A Clockwork Orange, Stanley Kubrick, Malcolm McDowell
+ 3 1971 10 Harold and Maude, Hal Ashby, Ruth Gordon
+ 
+
+----------------------------------
+
+Mouse Minnie Transaction history: 
+----------------------------------
+Frog Freddie Transaction history: 
+----------------------------------
+Wacky Wally Transaction history: 
+----------------------------------
+Error: Z is not a valid movie type.
+Error in transaction input. Transaction not recorded.
+Error in transaction input. Transaction not recorded.
+Error in transaction input. Transaction not recorded.
+Customer ID not found within inventory. Transaction not recorded.
+Error: Movie Bogus Title not found. Transaction not recorded.
+BORROW TRANSACTION FAILED: Harold and Maude is out of stock.
+Error: Movie  not found. Transaction not recorded.
+BORROW TRANSACTION FAILED: Harold and Maude is out of stock.
+Error: Movie  not found. Transaction not recorded.
+BORROW TRANSACTION FAILED: Harold and Maude is out of stock.
+Error: Movie  not found. Transaction not recorded.
+Error: Movie Bogus Title not found. Transaction not recorded.
+Comedy:
+ Year: #: Title:      Director:
+1977 9 Annie Hall, Woody Allen
+ 1978 9 National Lampoon's Animal House, John Landis
+ 1989 9 When Harry Met Sally, Rob Reiner
+ 1993 9 Sleepless in Seattle, Nora Ephron
+ 1996 8 Fargo, Joel Coen
+ 1998 9 You've Got Mail, Nora Ephron
+ 2003 10 Pirates of the Caribbean, Gore Verbinski
+ 
+
+Drama:
+ Year: #: Title:      Director:
+1991 8 Dogfight, Nancy Savoca
+ 1988 9 Good Morning Vietnam, Barry Levinson
+ 2000 9 Good Will Hunting, Gus Van Sant
+ 1967 9 King of Hearts, Phillippe De Broca
+ 1993 9 Schindler's List, Steven Spielberg
+ 1991 9 Silence of the Lambs, Jonathan Demme
+ 1992 9 Unforgiven, Clint Eastwood
+ 
+
+Classic:
+ Date: #: Title:      Director:      Major Actor: 
+9 1938 10 Holiday, George Cukor, Cary Grant
+ 9 1938 9 Holiday, George Cukor, Katherine Hepburn
+ 2 1939 10 Gone With the Wind, Victor Fleming, Clark Gable
+ 2 1939 10 Gone With the Wind, Victor Fleming, Vivien Leigh
+ 7 1939 10 The Wizard of Oz, Victor Fleming, Judy Garland
+ 5 1940 10 The Philadelphia Story, George Cukor, Cary Grant
+ 5 1940 8 The Philadelphia Story, George Cukor, Katherine Hepburn
+ 10 1941 9 The Maltese Falcon, John Huston, Humphrey Bogart
+ 8 1942 10 Casablanca, Michael Curtiz, Humphrey Bogart
+ 8 1942 10 Casablanca, Michael Curtiz, Ingrid Bergman
+ 11 1946 10 It's a Wonderful Life, Frank Capra, Donna Reed
+ 11 1946 10 It's a Wonderful Life, Frank Capra, James Steward
+ 2 1971 9 A Clockwork Orange, Stanley Kubrick, Malcolm McDowell
+ 3 1971 0 Harold and Maude, Hal Ashby, Ruth Gordon
+ 
+
+----------------------------------
+
+Mouse Minnie Transaction history: 
+    Borrowed Fargo by Joel Coen
+    Borrowed Harold and Maude by Hal Ashby
+    Borrowed The Philadelphia Story by George Cukor
+    Borrowed Good Will Hunting by Gus Van Sant
+    Borrowed The Philadelphia Story by George Cukor
+    Borrowed Good Morning Vietnam by Barry Levinson
+----------------------------------
+Mouse Mickey Transaction history: 
+    Borrowed Holiday by George Cukor
+    Borrowed The Maltese Falcon by John Huston
+    Borrowed Harold and Maude by Hal Ashby
+    Borrowed A Clockwork Orange by Stanley Kubrick
+----------------------------------
+Frog Freddie Transaction history: 
+    Borrowed Harold and Maude by Hal Ashby
+    Returned Harold and Maude by Hal Ashby
+    Borrowed Harold and Maude by Hal Ashby
+    Returned Harold and Maude by Hal Ashby
+    Borrowed Harold and Maude by Hal Ashby
+    Returned Harold and Maude by Hal Ashby
+    Borrowed Harold and Maude by Hal Ashby
+----------------------------------
+Wacky Wally Transaction history: 
+    Borrowed National Lampoon's Animal House by John Landis
+    Borrowed Harold and Maude by Hal Ashby
+    Borrowed Harold and Maude by Hal Ashby
+    Returned You've Got Mail by Nora Ephron
+    Borrowed You've Got Mail by Nora Ephron
+----------------------------------
+Pig Porky Transaction history: 
+    Borrowed Harold and Maude by Hal Ashby
+    Borrowed Dogfight by Nancy Savoca
+    Borrowed Silence of the Lambs by Jonathan Demme
+    Borrowed When Harry Met Sally by Rob Reiner
+    Borrowed Annie Hall by Woody Allen
+----------------------------------
